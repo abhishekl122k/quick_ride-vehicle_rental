@@ -1,7 +1,7 @@
 # quick_ride-vehilce_rental
 Blockchain based Vehicle Rental Application
 
-**Repo contains images of the working of the Application (in the folder Working Screenshots)**
+**Repo contains final presentation and images of the working of the Application (in the folder Working Screenshots)**
 
 
 Technology giants like Uber have created a great impact by introducing "share your trip policy". We propose to facitiate and extend it to another dimension with the aid of block chain. This application provides a platforms for users to rent vehicles from other users while taking care of problems related to accountability, reliability and security. The user can rent their car using Ether currency from the ethereum network. Smart contracts have been deployed for secure payments and to handle edge cases.
