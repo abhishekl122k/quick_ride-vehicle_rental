@@ -1,0 +1,9 @@
+package installment: npm install --save ganache-cli mocha web3@1.0.0-beta.26 solc@0.4.26 fs-extra
+
+~ Latest packages of web3 and solc threw error.
+
+DEPLOYMENT ADDRESS: 0x46AB325539204e0e6BA72340FBDA28fc553959EB
+
+Semantic ui cdn : <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.11.8/semantic.min.css"/>
+
+Map-box access-token: pk.eyJ1IjoiYWJoaXNoZWstMTc3IiwiYSI6ImNrazBvZzVsNzBqNWEyeHJ1YXJpdm90MGIifQ.od2IqsU9IQHtAkFe-YJcJA
